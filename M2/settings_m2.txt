@@ -1,0 +1,17 @@
+// <name> = <keybind> // if you want stop the programm: press "/" 
+1. shiled_combination_key = c
+2. fire_dead_line_key = b
+3. ice_attack_key = n
+4. heal_key = v
+5. teleport = 5
+6. resurect = 6
+7. guard = 7
+8. ice_storm = 8
+9. void = 9
+//only 3 spells//view: <spell> = <keybind>
+users_input:
+ssaaf = l
+sqsqsqss = k
+fqfqqsss = j
+
+
